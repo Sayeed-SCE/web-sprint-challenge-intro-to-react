@@ -15,7 +15,7 @@ const StyledDiv = styled.div`
   transition: all 0.2s ease-in-out;
   &:hover {
     transition: all 0.2s ease-in-out;
-    background-color: royalblue;
+    background-color: green;
   }
 
 
